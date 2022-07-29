@@ -32,7 +32,7 @@ PSNR for all pairs of images stored into ground truth folder and restored folder
 - 📝 **evaluation_report.py** : </br></br>
 
 
-## References
+## References 📋
 
 <a id="1">[1]</a> Wang, Zhou, et al. ["Image quality assessment: from error visibility to structural similarity."](https://ece.uwaterloo.ca/~z70wang/publications/ssim.pdf) </br>
 IEEE transactions on image processing 13.4 (2004): 600-612.
